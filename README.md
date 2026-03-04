@@ -200,33 +200,6 @@ These four stages are all addressed in the TO-BE process, confirming the redesig
 │ Stages with Wq → ∞           │ 7 → 0        │ Eliminated       │
 └──────────────────────────────┴──────────────┴───────────────────┘
 ```
-
----
-
-## Diagrams
-
-### Process Flow Diagrams
-
-Two swim-lane diagrams showing all 17 process nodes, 4 decision gates, rework paths, and improvement callouts.
-
-![Process Flow Diagrams](outputs/procurement_flow_FIXED.png)
-
----
-
-### Systems Engineering Analytics Dashboard
-
-Eight-panel dashboard: cycle time distribution, bottleneck map (ρ), M/G/1 queue waiting time, rework cost, improvement waterfall, process variability (CoV), sensitivity tornado, and KPI impact panel.
-
-![Analytics Dashboard](outputs/procurement_analytics_v3.png)
-
----
-
-### Monte Carlo Schedule Risk Dashboard
-
-Seven-panel dashboard: schedule distribution, KPI panel, step duration breakdowns (AS-IS & TO-BE), bottleneck queue wait comparison, S-curve CDF, and schedule risk tornado (Pearson correlation).
-
-![Monte Carlo Dashboard](outputs/procurement_monte_carlo.png)
-
 ---
 
 ## Data Collection & Assumptions
