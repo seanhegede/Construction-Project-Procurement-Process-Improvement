@@ -14,7 +14,6 @@
   - [M/G/1 Queueing Analysis](#3-mg1-queueing-analysis)
   - [Monte Carlo Schedule Risk](#4-monte-carlo-schedule-risk-modelling)
 - [Key Results](#key-results)
-- [Diagrams](#diagrams)
 - [Data Collection & Assumptions](#data-collection--assumptions)
 - [Dependencies](#dependencies)
 
